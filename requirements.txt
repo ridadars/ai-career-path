@@ -1,0 +1,25 @@
+fastapi
+uvicorn[standard]
+pydantic
+
+# Frontend
+streamlit
+
+# AI & LangChain ecosystem
+langchain
+langchain-google-genai
+langgraph
+
+# PDF and file handling
+PyPDF2
+python-dotenv
+
+# Data & Visualization
+pandas
+numpy
+matplotlib
+plotly
+networkx
+
+# HTTP requests
+requests

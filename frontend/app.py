@@ -12,7 +12,7 @@ import pandas as pd
 
 # ------------------ CONFIG ------------------
 st.set_page_config(page_title="💼 AI Career Path Recommender", page_icon="🤖", layout="wide")
-FASTAPI_URL = "http://127.0.0.1:9000"  # FastAPI URL
+FASTAPI_URL = "https://ai-career-path-1.onrender.com/"  # FastAPI URL
 
 # ------------------ CUSTOM CSS ------------------
 st.markdown(
